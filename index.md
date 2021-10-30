@@ -14,7 +14,9 @@ For years, I've thought to myself: I should cook more.
 
 ### Tools
 
-
+* Knives
+  * Chef's Knife - This is the go-to knife for most cooking. These generally range from 6-14", and have a tapered shape (see photo below).
+  ![chef's knife](https://github.com/NirvashPrime/cooking/blob/gh-pages/images/chef's%20knife.jpg?raw=true)
 
 ### Techniques
 
@@ -48,6 +50,7 @@ For years, I've thought to myself: I should cook more.
 
 1. Due to my lack of GitHub Pages expertise, the title / description may be duplicated at the top of the page.
 
-### Future Plans
+### Goals
 
-1. My current goal is to make a resource that others can rely on as a comprehensive source of truth for food and food-related topics.
+1. Make a resource that others can rely on as a comprehensive source of truth for food and food-related topics.
+2. Get vector graphics of knife shapes.
