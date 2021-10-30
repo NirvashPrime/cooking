@@ -1,5 +1,3 @@
-Welcome to my catch-all for everything food-related.
-
 ## Preface
 
 For years, I've thought to myself: I should cook more.
@@ -17,6 +15,12 @@ For years, I've thought to myself: I should cook more.
 ### Techniques
 
 
+
+### Food (General)
+
+Some proteins require a minimum internal temperature for safe consumption:
+* Chicken - 165 ºF
+* Pork - 145 ºF
 
 ### Recipes
 
