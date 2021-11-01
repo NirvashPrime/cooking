@@ -44,7 +44,7 @@ For years, I've thought to myself: I should cook more.
 
 ### Contributing
 
-* If you'd like to help out, please feel free to open an issue with any questions, concerns, or comments.
+* If you'd like to help out, please feel free to open an issue with any questions, comments, or concerns.
 
 ### Known Issues
 
